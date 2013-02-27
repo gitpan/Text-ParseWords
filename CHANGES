@@ -1,3 +1,7 @@
+3.28
+Better diag information in pod.t
+More metadata in META.yml
+
 3.27 (CPAN version)
 Makefile.PL rewritten
 CHANGES
