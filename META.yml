@@ -3,6 +3,7 @@ abstract: parse text into an array of tokens or array of arrays
 author:
   - 'Alexandr Ciornii <alexchorny@gmail.com>'
 build_requires:
+  ExtUtils::MakeMaker: 0
   Scalar::Util: 0
 configure_requires:
   ExtUtils::MakeMaker: 0
@@ -21,4 +22,4 @@ requires:
   perl: 5.006
 resources:
   repository: http://github.com/chorny/Text-ParseWords
-version: 3.28
+version: 3.29
